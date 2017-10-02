@@ -24,6 +24,6 @@ cask "steam"
 cask "sublime-text"
 cask "teamspeak-client"
 cask "telegram-desktop"
-cask "caskroom/versions/iterm2-nightly"
+cask "iterm2-nightly"
 mas "DrUnarchiver", id: 1127253508
 mas "Pocket", id: 568494494
